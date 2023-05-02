@@ -7,7 +7,7 @@ email to security@hubble.markets and provide your github username so we can add 
 
 Expect a response as fast as possible, typically within 24 hours.
 
-The Hubble Protocol bug bounty program is focused on the prevention of negative impacts to the Hubble ecosystem, which currently covers our smart contracts, web UI and Hubble integrations.
+The Hubble Protocol bug bounty program is focused on the prevention of negative impacts to the Hubble ecosystem, primarily loss of funds, which currently covers our smart contracts, web UI and Hubble integrations.
 
 ### Security bug bounties
 
@@ -43,6 +43,7 @@ We offer bounties for critical security issues. Please see below for more detail
 * Attacks that require social engineering
 
 #### Eligibility
+* Minor issues do not automatically qualify for a bug bounty
 * The participant submitting the bug report shall follow the process outlined within this document
 * Valid exploits can be eligible even if they are not successfully executed on the cluster
 * Multiple submissions for the same class of exploit are still eligible for compensation, though may be compensated at a lower rate, however these will be assessed on a case-by-case basis
